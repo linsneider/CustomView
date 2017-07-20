@@ -9,5 +9,5 @@
         android:id="@+id/gdyd"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="仿广东移动加载动画"/>
+        android:text="@string/gdyd"/>
 </LinearLayout>

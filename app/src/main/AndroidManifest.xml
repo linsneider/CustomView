@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".GdydActivity"/>
+        <activity
+            android:name=".GdydActivity"
+            android:label="@string/gdyd"/>
     </application>
 </manifest>
